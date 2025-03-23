@@ -35,7 +35,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 41.86046511627907%; height: 0;"><iframe src="https://www.loom.com/embed/d129d711160b49a895d158006520718b?sid=02338958-5101-4cb9-948b-f332b1612a8b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/d129d711160b49a895d158006520718b">
+      <p>Trivia App Part 2 - 22 March 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d129d711160b49a895d158006520718b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d129d711160b49a895d158006520718b-2221c1103836bb2d-full-play.gif">
+    </a>
+</div>
 
 ## Notes
 
